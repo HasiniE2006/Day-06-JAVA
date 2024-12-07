@@ -1,3 +1,14 @@
+/*
+*       
+* *
+*   *
+*     *
+* * * * *
+*     *
+*   *
+* *
+*
+*/
 import java.util.*;
 class Butterfly
 {
