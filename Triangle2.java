@@ -1,3 +1,14 @@
+/*
+         *
+        **
+       * *
+      *  *
+     *   *
+    *    *
+   *     *
+  *      *
+**********
+*/
 import java.util.*;
 public class Triangle2
 {
